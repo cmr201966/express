@@ -1,0 +1,18 @@
+.input-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: start;
+    gap: 5px;
+  }
+  .button-app
+  {
+      background: none;
+      border: none;   
+      cursor: pointer;
+      color: aliceblue;
+      border-radius: 15px;
+      height: 30px;
+      width: 50px;
+  }
+  

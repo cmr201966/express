@@ -1,0 +1,25 @@
+h3{
+  justify-content: start;
+}
+.encabezado{
+  display:grid;
+  flex-direction: row;
+  grid-template-columns: 10% 20% 30% 10%;
+  width: 650px;
+}
+.fila-borrar{
+  display: flex;
+  flex-direction: row;
+}
+.borrar{
+  margin-left: 5px;
+  color: blueviolet
+}
+.agregar{
+  margin-top: 10px;
+  margin-left: 65px;
+}
+.modifica-elimina{
+  display: flex;
+  flex-direction: row;
+}
